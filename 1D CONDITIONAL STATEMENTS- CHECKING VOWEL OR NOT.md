@@ -1,31 +1,34 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements-  find the smallest among three Integer  Numbers
 
 ## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+To Write a  python program to find the smallest among three Integer  Numbers
 ## ALGORITHM  
-1. Begin the program.  
-2. Take a character input from the user
-3. Convert the character to lowercase
-4. Check if the lowercase character is one of the vowels: 'a', 'e', 'i', 'o', 'u'
-5. If it is a vowel, display "The given character is a vowel"
-6. Otherwise, display "The given character is NOT a vowel"
-4. Terminate the program.
+
+
+1. **Start**
+2. **Input** number `a`
+3. **Input** number `b`
+4. **Input** number `c`
+5. Set `d` to the smallest of `a`, `b`, and `c`
+6. **Output** `d` as the smallest number
+7. **End**
+
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212223070007
+# Name-Gopinath G
 # Write your code here
 
-char = input("Enter a character: ")
-char_lower = char.lower()
-
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
-else:
-    print("The given character is NOT a vowel")
-```
+a=int(input())
+b=int(input())
+c=int(input())
+d=min(a,b,c)
+print("The Smallest  of the three a=",a,"b=",b,"c=",c,"is",d)
 
 ## OUTPUT
+![Screenshot 2025-04-30 111624](https://github.com/user-attachments/assets/dd5a0768-58d4-4419-8cd7-1dcaca730a90)
+
 
 ## RESULT
+thus the  python program to find the smallest among three Integer  Numbers was exceuted secusssfully
