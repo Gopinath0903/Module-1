@@ -1,34 +1,32 @@
-# Experiment No: 1e – SEB-Minimum of Three Numbers
+ Experiment No: 1e – SEB-Minimum of Three Numbers
 
 ## AIM  
-To write a Python program to find the minimum between three integer numbers using a conditional expression (Ternary operator).
+To write a program to find minimum between three integer numbers using conditional Expression(Ternary)
+
 
 ## ALGORITHM  
-1. Begin the program.  
-2. Read the three numbers: `num1`, `num2`, and `num3` from the user.  
-3. Compare `num1`, `num2`, and `num3` to find the smallest number:  
-   - If `num1` is less than or equal to both `num2` and `num3`, then `num1` is the minimum.  
-   - Else, if `num2` is less than or equal to both `num1` and `num3`, then `num2` is the minimum.  
-   - Otherwise, `num3` is the minimum.  
-4. Print the minimum value along with the input numbers in the format:  
-   `"The minimum of num1, num2, num3 is min_num."`  
-5. Terminate the program.
+
+1. **Start**
+2. **Input** three numbers: `a`, `b`, and `c`
+3. **Find** the minimum value among the three and store it in `d`
+4. **Display** the result: "The minimum of a, b, c is d"
+5. **End**
+
+
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212223070007
+# Name-Gopinath G
 # Write your code here
-
-num1 = int(input())
-num2 = int(input())
-num3 = int(input())
-
-min_num = num1 if (num1 <= num2 and num1 <= num3) else num2 if (num2 <= num1 and num2 <= num3) else num3
-
-print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
-```
+a=int(input())
+b=int(input())
+c=int(input())
+d=min(a,b,c)
+print(f"The minimum of {a}, {b}, {c} is",d)
 
 ## OUTPUT
+![Screenshot 2025-04-30 112231](https://github.com/user-attachments/assets/0ec7c4fa-8083-4d09-b258-dbc9d302757d)
 
 ## RESULT
+thus the program to find minimum between three integer numbers using conditional Expression(Ternary) was exceuted sucessfully
