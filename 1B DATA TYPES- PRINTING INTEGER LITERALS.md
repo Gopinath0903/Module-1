@@ -25,10 +25,10 @@ a=int(input())
 b=int(input())
 c=complex(a,b)
 print(c)
-
+```
 ## OUTPUT
 ![Screenshot 2025-04-30 110654](https://github.com/user-attachments/assets/78c0d987-5ba1-4feb-a144-80587f5a4aa9)
 
 
 ## RESULT
-thus the python program to read and print the complex number was excueted secussfully
+thus the python program to read and print the complex number was executed successfully
