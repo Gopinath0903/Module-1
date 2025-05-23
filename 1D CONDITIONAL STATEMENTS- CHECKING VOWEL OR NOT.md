@@ -28,7 +28,8 @@ print("The Smallest  of the three a=",a,"b=",b,"c=",c,"is",d)
 
 ## OUTPUT
 ![Screenshot 2025-04-30 111624](https://github.com/user-attachments/assets/dd5a0768-58d4-4419-8cd7-1dcaca730a90)
+```
 
 
 ## RESULT
-thus the  python program to find the smallest among three Integer  Numbers was exceuted secusssfully
+thus the  python program to find the smallest among three Integer  Numbers was executed successfully
