@@ -56,7 +56,7 @@ print(floor_division)
 print(modulo)
 print(exponentiation)
 
-
+```
 
 
 ## OUTPUT
@@ -64,4 +64,4 @@ print(exponentiation)
 
 
 ## RESULT
-Thus the python program to read two integers and perform simple arithmetic calculation.(+,-,*,/,//,%,**) are excueted sucessfully
+Thus the python program to read two integers and perform simple arithmetic calculation.(+,-,*,/,//,%,**) are executed successfully
