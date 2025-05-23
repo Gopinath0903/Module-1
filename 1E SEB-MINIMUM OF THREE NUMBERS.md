@@ -24,9 +24,9 @@ b=int(input())
 c=int(input())
 d=min(a,b,c)
 print(f"The minimum of {a}, {b}, {c} is",d)
-
+```
 ## OUTPUT
 ![Screenshot 2025-04-30 112231](https://github.com/user-attachments/assets/0ec7c4fa-8083-4d09-b258-dbc9d302757d)
 
 ## RESULT
-thus the program to find minimum between three integer numbers using conditional Expression(Ternary) was exceuted sucessfully
+thus the program to find minimum between three integer numbers using conditional Expression(Ternary) was executed successfully
